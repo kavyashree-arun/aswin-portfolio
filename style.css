@@ -1,0 +1,84 @@
+/* Commons */
+body{
+    color: #fff;
+}
+.g-row{
+    background-color: #202020;
+}
+.b-row{
+    background-color: #0F0F10;
+}
+/* End Commons */
+
+/* Navbar */
+.header{
+    color: #FFD100;
+}
+header{
+    font-family: 'Langar', cursive;
+    font-size: 4rem;
+    margin-left: 1.5%;
+    margin-top: 1%;
+    float: left;
+}
+a{
+    color: #fff;
+}
+a:hover{
+    color: #6c757d;
+}
+.active{
+    color: #EF233C;
+}
+.nav-item{
+    font-size: 1.8rem;
+    margin-right: 1%;
+    margin-top: 2%;
+}
+/* End Navbar */
+
+/* Main Content */
+span{
+    color: #EF233C;
+}
+h1{
+    font-size: 6rem;
+    font-weight: 500;
+}
+.main-content{
+    margin-top: 10.5%;
+    margin-left: 9%;
+    margin-right: 10%;
+    line-height: 1.25rem;
+    font-size: 4rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    width: 40%;
+    height: 67vh;
+}
+.btn{
+    margin-top: 15%;
+    margin-left: 1%;
+    font-size: 1.5rem;
+}
+.images{
+    float: right;
+    margin-top: 2.5%;
+    margin-right: 12%; 
+}
+img{
+    width: 120%;
+}
+
+/* End Main Content */
+
+/* About section */
+.about-text h1{
+    color: #EF233C;
+    font-family: 'Inter', sans-serif;
+    font-size: 4rem;
+    font-weight: 500;
+    text-align: right;
+}
+
+/* End About Section */
